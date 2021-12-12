@@ -479,8 +479,8 @@
   </section>
 
   <!-- CONTACT -->
-   @include('frontend.layouts.contact-me')
-
+   {{-- @include('frontend.layouts.contact-me') --}}
+@yield('contact')
 
   <!-- FOOTER -->
   <footer data-stellar-background-ratio="0.5">
