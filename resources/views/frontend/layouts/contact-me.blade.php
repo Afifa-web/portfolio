@@ -1,4 +1,4 @@
-@extends('index')
+@extends('frontend.index')
 @section('contact')
 <section id="contact" data-stellar-background-ratio="0.5">
      <div class="container">
