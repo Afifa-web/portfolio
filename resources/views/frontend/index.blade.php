@@ -1,4 +1,4 @@
-@extends('frontend.layouts.master')
+@extends('layouts.master')
 @section('content')
 
 
@@ -479,8 +479,8 @@
   </section>
 
   <!-- CONTACT -->
-   {{-- @include('frontend.layouts.contact-me') --}}
-@yield('contact')
+   @include('layouts.contact-me')
+{{-- @yield('contact') --}}
 
   <!-- FOOTER -->
   <footer data-stellar-background-ratio="0.5">

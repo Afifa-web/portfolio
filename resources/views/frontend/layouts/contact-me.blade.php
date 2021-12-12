@@ -1,5 +1,7 @@
-@extends('frontend.index')
+{{-- @extends('frontend.index')
 @section('contact')
+
+@endsection --}}
 <section id="contact" data-stellar-background-ratio="0.5">
      <div class="container">
           <div class="row">
@@ -71,4 +73,3 @@
           </div>
      </div>
 </section>
-@endsection
