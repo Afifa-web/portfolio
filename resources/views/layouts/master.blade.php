@@ -31,12 +31,12 @@
 @yield('content')
 
 </body>
-<script src="{{ asset('frontend/assets/js/jquery.js') }}"></script>
+{{-- <script src="{{ asset('frontend/assets/js/jquery.js') }}"></script>
 <script src="{{ asset('frontend/assets/js/bootstrap.min.js') }}"></script>
 <script src="{{ asset('frontend/assets/js/jquery.stellar.min.js') }}"></script>
 <script src="{{ asset('frontend/assets/js/jquery.magnific-popup.min.js') }}"></script>
 <script src="{{ asset('frontend/assets/js/smoothscroll.js') }}"></script>
-<script src="{{ asset('frontend/assets/js/custom.js') }}"></script>
+<script src="{{ asset('frontend/assets/js/custom.js') }}"></script> --}}
 {{-- <script src="http://laravprotfolio.herokuapp.com/frontend/assets/js/jquery.js"></script>
 <script src="http://laravprotfolio.herokuapp.com/frontend/assets/js/bootstrap.min.js"></script>
 <script src="http://laravprotfolio.herokuapp.com/frontend/assets/js/jquery.stellar.min.js"></script>
