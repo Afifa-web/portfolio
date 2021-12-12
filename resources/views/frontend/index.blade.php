@@ -479,7 +479,7 @@
   </section>
 
   <!-- CONTACT -->
-   {{-- @include('frontend.layouts.contact-me') --}}
+   @include('layouts.contact-me')
 {{-- @yield('contact') --}}
 
   <!-- FOOTER -->
