@@ -17,5 +17,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [App\Http\Controllers\Frontend\IndexController::class, 'home'])->name('home');
 // Route::get('/', [App\Http\Controllers\Frontend\IndexController::class, 'contact']);
 Route::get('/', [ContactController::class, 'contact']);
-Route::Post('/send-message',[IndexController::class, 'sendEmail'])->name('contact.send');
+Route::Post('/send-message',[ContactController::class, 'sendEmail'])->name('contact.send');
 //front end end
