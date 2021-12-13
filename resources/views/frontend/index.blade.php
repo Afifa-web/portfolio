@@ -20,15 +20,15 @@
 
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="http://laravprotfolio.herokuapp.com/frontend/assets/css/templatemo-style.css"> --}}
-    @production
 
-  <link rel="stylesheet" href=" {{  secure_asset('css/bootstrap.min.css') }}">
-  <link rel="stylesheet" href=" {{  secure_asset('css/magnific-popup.css') }}">
-  <link rel="stylesheet" href=" {{  secure_asset('css/font-awesome.min.css') }}">
+
+  <link rel="stylesheet" href=" {{ asset('assets/css/bootstrap.min.css') }}">
+  <link rel="stylesheet" href=" {{ asset('assets/css/magnific-popup.css') }}">
+  <link rel="stylesheet" href=" {{ asset('assets/css/font-awesome.min.css') }}">
 
   <!-- MAIN CSS -->
-  <link rel="stylesheet" href="{{  secure_asset('css/templatemo-style.css') }}">
-@endproduction
+  <link rel="stylesheet" href="{{ asset('assets/css/templatemo-style.css') }}">
+
 </head>
 <body>
   <!-- PRE LOADER -->
@@ -717,13 +717,13 @@
 <script src="http://laravprotfolio.herokuapp.com/frontend/assets/js/jquery.magnific-popup.min.js"></script>
 <script src="http://laravprotfolio.herokuapp.com/frontend/assets/js/smoothscroll.js"></script>
 <script src="http://laravprotfolio.herokuapp.com/frontend/assets/js/custom.js"></script> --}}
-  @production
-  <script src="{{  secure_asset('js/jquery.js') }}"></script>
-  <script src="{{  secure_asset('js/bootstrap.min.js') }}"></script>
-  <script src="{{  secure_asset('js/jquery.stellar.min.js') }}"></script>
-  <script src="{{  secure_asset('js/jquery.magnific-popup.min.js') }}"></script>
-  <script src="{{  secure_asset('js/smoothscroll.js') }}"></script>
-  <script src="{{  secure_asset('js/custom.js') }}"></script>
-  @endproduction
+
+  <script src="{{  asset('assets/js/jquery.js') }}"></script>
+  <script src="{{  asset('assets/js/bootstrap.min.js') }}"></script>
+  <script src="{{  asset('assets/js/jquery.stellar.min.js') }}"></script>
+  <script src="{{  asset('assets/js/jquery.magnific-popup.min.js') }}"></script>
+  <script src="{{  asset('assets/js/smoothscroll.js') }}"></script>
+  <script src="{{  asset('assets/js/custom.js') }}"></script>
+
   </html>
 {{-- @endsection --}}
