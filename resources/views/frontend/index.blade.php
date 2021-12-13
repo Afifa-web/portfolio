@@ -371,8 +371,9 @@
                  <div class="col-md-3 col-sm-6">
                       <!-- WORK THUMB -->
                       <div class="work-thumb">
-                           <a href="{{ asset('assets/images/protfolio5.jpg')}}" class="image-popup">
-                                <img src="{{ asset('assets/images/protfolio5.jpg')}}" class="img-responsive" alt="Work">
+                        {{-- assets\images\protfolio5.JPG --}}
+                           <a href="{{ asset('assets/images/protfolio5.JPG')}}" class="image-popup">
+                                <img src="{{ asset('assets/images/protfolio5.JPG')}}" class="img-responsive" alt="Work">
 
                                 <div class="work-info">
                                      <h3>ERP,Admin Panel</h3>
