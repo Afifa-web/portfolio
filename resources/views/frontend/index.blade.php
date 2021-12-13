@@ -161,7 +161,7 @@
 
                  <div class="col-md-4 col-sm-12">
                       <div class="about-image">
-                           <img src="{{ asset('frontend/assets/images/afifa1.png')}}" class="img-responsive" alt="">
+                           <img src="{{ asset('assets/images/afifa1.png')}}" class="img-responsive" alt="">
                       </div>
                  </div>
 
@@ -357,8 +357,8 @@
                  <div class="col-md-3 col-sm-6">
                       <!-- WORK THUMB -->
                       <div class="work-thumb">
-                           <a href="{{ asset('frontend/assets/images/protfolio1.jpg')}}" class="image-popup">
-                                <img src="{{ asset('frontend/assets/images/protfolio1.jpg')}}" class="img-responsive" alt="Work">
+                           <a href="{{ asset('assets/images/protfolio1.jpg')}}" class="image-popup">
+                                <img src="{{ asset('assets/images/protfolio1.jpg')}}" class="img-responsive" alt="Work">
 
                                 <div class="work-info">
                                      <h3>Varsity,Management</h3>
@@ -371,8 +371,8 @@
                  <div class="col-md-3 col-sm-6">
                       <!-- WORK THUMB -->
                       <div class="work-thumb">
-                           <a href="{{ asset('frontend/assets/images/protfolio5.jpg')}}" class="image-popup">
-                                <img src="{{ asset('frontend/assets/images/protfolio5.jpg')}}" class="img-responsive" alt="Work">
+                           <a href="{{ asset('assets/images/protfolio5.jpg')}}" class="image-popup">
+                                <img src="{{ asset('assets/images/protfolio5.jpg')}}" class="img-responsive" alt="Work">
 
                                 <div class="work-info">
                                      <h3>ERP,Admin Panel</h3>
@@ -385,8 +385,8 @@
                  <div class="col-md-3 col-sm-6">
                       <!-- WORK THUMB -->
                       <div class="work-thumb">
-                           <a href="{{ asset('frontend/assets/images/protfolio3.jpg')}}" class="image-popup">
-                                <img src="{{ asset('frontend/assets/images/protfolio3.jpg')}}" class="img-responsive" alt="Work">
+                           <a href="{{ asset('assets/images/protfolio3.jpg')}}" class="image-popup">
+                                <img src="{{ asset('assets/images/protfolio3.jpg')}}" class="img-responsive" alt="Work">
 
                                 <div class="work-info">
                                      <h3>E-Ecommerce</h3>
@@ -399,8 +399,8 @@
                  <div class="col-md-3 col-sm-6">
                       <!-- WORK THUMB -->
                       <div class="work-thumb">
-                           <a href="{{ asset('frontend/assets/images/protfolio4.jpg')}}" class="image-popup">
-                                <img src="{{ asset('frontend/assets/images/protfolio4.jpg')}}" class="img-responsive" alt="Work">
+                           <a href="{{ asset('assets/images/protfolio4.jpg')}}" class="image-popup">
+                                <img src="{{ asset('assets/images/protfolio4.jpg')}}" class="img-responsive" alt="Work">
 
                                 <div class="work-info">
                                      <h3>Multi Vendor, E-Ecommerce</h3>
@@ -493,12 +493,10 @@
                         <div class="media-body blog-info">
                             {{-- <h3><small style="color:#40AFC0;"> As a mentor </small></h3> --}}
                              <br>
-                             <p>Name: Riasaad Haque Aneek</span></p>
-                             <p> Senior Lecturer </p>
-                             <p> Department of CSE, Uttara University </p>
-
-                             <p></span> Mail: <span style="color:#40AFC0;">   aneek.cse@uttarauniversity.edu.bd</span></p>
-                             <p></span> Phone: <span style="color:#40AFC0;">     01921462466</span></p>
+                             <p>Name: Ziaul Islam Khan</span></p>
+                             <p> AVP </p>
+                             <p> Shahjalal Islami Bank Ltd. </p>
+                             <p></span> Phone: <span style="color:#40AFC0;">     01712293111</span></p>
                        </div>
 
                    </div>
