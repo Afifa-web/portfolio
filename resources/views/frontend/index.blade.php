@@ -631,7 +631,7 @@
                       <div class="footer-bottom">
                            <div class="col-md-6 col-sm-5">
                                 <div class="copyright-text">
-                                     <p>Copyright &copy; 2021 Afifa Protfolio</p>
+                                     <p>Copyright &copy; 2021 Afifa Portfolio</p>
                                 </div>
                            </div>
                            <div class="col-md-6 col-sm-6">
