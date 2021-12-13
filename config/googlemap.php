@@ -1,5 +1,5 @@
 <?php
 
 return[
-  'map_apikey'=>env('GOOGLE_APIKEY');
+  'map_apikey'=>env('GOOGLE_APIKEY'),
 ];
