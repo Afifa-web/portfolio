@@ -32,7 +32,7 @@ require 'PHPMailer/src/SMTP.php';
         $mail = new PHPMailer(true);
         $mail ->SMTPDebug =0;
         $mail ->isSMTP();
-        $mail ->env('smtp.mailtrap.io');
+        $mail ->Host =env('MAIL_HOST');
         $mail ->SMTPAuth=true;
         $mail ->Username =env('MAIL_USERNAME');
         $mail ->Password =env('MAIL_PASSWORD');
