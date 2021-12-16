@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Afifa - Protfolio</title>
+  <title>Afifa - Portfolio</title>
   <!--
   Hydro Template
   http://www.templatemo.com/tm-509-hydro
