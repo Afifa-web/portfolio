@@ -19,10 +19,10 @@ class ContactController extends Controller
     public function sendEmail(Request $request)
     {
       // $details = [
-        $name=>$request->name,
-        $email=>$request->email,
-        $phone=>$request->phone,
-        $message=>$request->message,
+        $name=$request->name,
+        $email=$request->email,
+        $phone=$request->phone,
+        $message=$request->message,
 
         // require 'PHPMailer/vendor/autoload.php';
 
