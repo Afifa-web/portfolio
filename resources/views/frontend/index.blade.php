@@ -71,6 +71,7 @@
 
                  <ul class="nav navbar-nav navbar-right">
                       <li><a href="https://www.facebook.com/afifa.adil.5"><i class="fa fa-facebook-square"></i></a></li>
+                      <li><a href="https://www.linkedin.com/in/afifa-akter-3ba124228/"><i class="fa fa-linkedin"></i></a></li>
                       {{-- <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                       <li><a href="#"><i class="fa fa-instagram"></i></a></li> --}}
                       {{-- <li><a href="afifauttara444@gmail.com"><i class="fa fa-instagram"></i></a></li>  --}}
